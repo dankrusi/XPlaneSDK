@@ -1,1 +1,1 @@
-X-Plane SDK 2.1.2, updated 2013.03.14
+X-Plane SDK 3.0.0, updated 2017.12.29
